@@ -5,5 +5,5 @@
 ### Install requirements
 
 ```bash
-pip install opencv-python mtcnn tensorflow
+pip install opencv-python tensorflow numpy dlib psutil
 ```

@@ -1,6 +1,6 @@
 cmake==3.26.3
 dlib==19.24.1
 numpy==1.23.5
-opencv_python==4.7.0.72
+opencv_python==4.8.1.78
 psutil==5.9.5
 tensorflow==2.12.1
